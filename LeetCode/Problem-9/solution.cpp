@@ -1,4 +1,15 @@
-using namespace std;
+/*
++------------------------------------------------------------------------------+
+| Number       : 9                                                             |
+| Title        : Palindrome Number                                             |
+| Link         : https://leetcode.com/problems/palindrome-number               |
+| Description  : Check if an integer is a palindrome.                          |
++------------------------------------------------------------------------------+
+| Created By   : Soheil Hasani                                                 |
+| Created On   : 2024-08-06                                                    |
+| Last Modified: 2024-08-06                                                    |
++------------------------------------------------------------------------------+
+*/
 
 class Solution {
 public:
