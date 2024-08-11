@@ -7,9 +7,14 @@
 |                  return its head.                                        |
 +--------------------------------------------------------------------------+
 | Author         : Soheil Hasani                                           |
-| Date Created   : 2024-08-11                                              |
+| Date Created   : 2024-08-10                                              |
 | Last Updated   : 2024-08-11                                              |
 +--------------------------------------------------------------------------+
+*/
+
+/*
+ * Time Complexity: O(n) - Each node in the linked list is visited exactly once.
+ * Space Complexity: O(1) - The space used is constant, as only a few pointers are used for swapping.
 */
 
 #include <iostream>
