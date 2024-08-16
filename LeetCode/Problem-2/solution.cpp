@@ -8,8 +8,13 @@
 +------------------------------------------------------------------------------+
 | Created By   : Soheil Hasani                                                 |
 | Created On   : 2024-08-07                                                    |
-| Last Modified: 2024-08-07                                                    |
+| Last Modified: 2024-08-16                                                    |
 +------------------------------------------------------------------------------+
+*/
+
+/*
+ - Time Complexity: O(max(m, n)) - The algorithm iterates through both linked lists simultaneously, running for the length of the longer list.
+ - Space Complexity: O(max(m, n)) - A new linked list is created to store the result, with a length of up to max(m, n) + 1.
 */
 
 /**
