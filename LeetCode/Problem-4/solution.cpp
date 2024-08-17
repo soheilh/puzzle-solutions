@@ -12,6 +12,12 @@
 +------------------------------------------------------------------------------+
 */
 
+/*
+ - Time Complexity: O(log(min(m,n))) - Recursively halves the search space, 
+                                       where m and n are the sizes of the two input arrays.
+ - Space Complexity: O(1) - Uses constant extra space.
+*/
+
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
